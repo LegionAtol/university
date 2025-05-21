@@ -5,7 +5,6 @@ As part of the "Artificial Neural Networks & Deep Learning" course, we built and
 ## Technologies
 - **Python**
 - **TensorFlow (with Keras API)** - used to design, train, and evaluate the CNNs
-- **OpenCV** - 
 - **scikit-learn** - used for data splitting, preprocessing (e.g., LabelEncoder), and performance metrics like accuracy, precision, recall, F1-score.
 - **pandas** - used to manage datasets and handle tabular data.
 - **matplotlib, seaborn** - used to visualize model performance, confusion matrices and others.
